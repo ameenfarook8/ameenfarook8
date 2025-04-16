@@ -29,7 +29,7 @@ I'm a passionate **Full-Stack Developer** and **Co-founder of [Tillring](https:/
 
 - 🎥 **YouTube (React Native Tutorials)**  
   _Creating practical, real-world app tutorials for aspiring developers_  
-  [👉 Watch Now](https://www.youtube.com/@yourchannelname)
+  [👉 Watch Now](https://www.youtube.com/@ameenfarook)
 
 - 🌐 **Tillring**  
   _White-labeled e-commerce platform built for growth-focused SMEs_  
@@ -38,9 +38,9 @@ I'm a passionate **Full-Stack Developer** and **Co-founder of [Tillring](https:/
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ameenfarook)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:ameen@example.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/@im_ameenfarook)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=google-chrome)](https://ameenfarook8.github.io)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:ameen.farook8@gmail.com)
 
 ---
 
