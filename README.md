@@ -22,8 +22,15 @@ I'm a passionate **Full-Stack Developer** and **Co-founder of [Tillring](https:/
 
 ## 📊 GitHub Stats
 
-![Ameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameenfarook&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameenfarook&layout=compact&theme=radical)
+![Ameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameenfarook8&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameenfarook8&layout=compact&theme=radical)
+
+## ⌨️ WakaTime Stats
+
+<!-- Replace `yourusername` with your actual WakaTime username -->
+<!-- You must install https://github.com/anmol098/waka-readme-stats and schedule it in your repo -->
+
+![Ameen's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ameenfarook8&theme=radical)
 
 ## 📽️ Featured Work
 
